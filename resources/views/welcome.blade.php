@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Minin Laravel's
+                    Minin's Laravel
                 </div>
 
                 <div class="links">
